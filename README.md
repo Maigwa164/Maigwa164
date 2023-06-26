@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/nEQe5dDpke8DRD7rBk/giphy.gif" width="200"/>
 </div>
 
-<img align="right" src="https://www.lambdatest.com/resources/images/news24.gif" alt="Coder GIF" width="420" height="330">
+<img align="right" src="https://user-images.githubusercontent.com/63905637/145709095-4f7e73cb-e52e-44fa-99a5-58a96ac4ff0c.gif" alt="Coder GIF" width="420" height="330">
 
 
 
