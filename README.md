@@ -1,7 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/nEQe5dDpke8DRD7rBk/giphy.gif" width="200"/>
 </div>
-<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
+
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coder GIF" width="420" height="330">
+
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is <b>DAVID MAIGWA</b>, I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
