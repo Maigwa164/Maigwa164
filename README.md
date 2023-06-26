@@ -47,9 +47,6 @@ My name is <b>DAVID MAIGWA</b>, I am a Full Stack Developer <img src="https://me
 
 ---
 
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wycliffemwimali&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
