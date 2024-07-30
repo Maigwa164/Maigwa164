@@ -33,16 +33,11 @@ My name is <b>DAVID MAIGWA</b>, I am a Full Stack Developer <img src="https://me
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" title="Nodejs" alt="Nodejs" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" title="Android" alt="Android " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg" title="Gradle" alt="Gradle" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/redis/redis-official.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
