@@ -28,7 +28,7 @@ My name is <b>DAVID MAIGWA</b>, I am a Full Stack Developer <img src="https://me
 ### :hammer_and_wrench:<b>Technologies & Skills<b>
 
 <div>
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" title="Nodejs" alt="Nodejs" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
