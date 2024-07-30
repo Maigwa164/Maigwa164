@@ -28,9 +28,10 @@ My name is <b>DAVID MAIGWA</b>, I am a Full Stack Developer <img src="https://me
 ### :hammer_and_wrench:<b>Technologies & Skills<b>
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" title="Nodejs" alt="Nodejs" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" title="Android" alt="Android " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
